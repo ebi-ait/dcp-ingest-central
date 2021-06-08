@@ -11,18 +11,29 @@ assignees: ''
 > A clear and concise description of what the bug is.
 
 **To Reproduce**
-Steps to reproduce the behavior:
+Steps to reproduce the behaviour:
 1. Go to '...'
 2. Click on '....'
 3. Run '...'
 4. Scroll down to '....'
 5. See error
 
-**Expected behavior**
+**Expected behaviour**
 > A clear and concise description of what you expected to happen.
 
 **Screenshots / Logs**
 > If applicable, add screenshots or log files to help explain your problem.
 
-** Links **
+**Links**
 > If applicable, link to relevant docs or Slack conversations.
+
+**Environment**
+- [ ] prod
+- [ ] staging
+- [ ] dev
+
+**Browser**
+- [ ] Chrome
+- [ ] Safari
+- [ ] IE
+- [ ] Other (please specify)
